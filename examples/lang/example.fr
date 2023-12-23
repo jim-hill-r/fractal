@@ -1,0 +1,8 @@
+abstract effect LinuxExecutable = {
+  assert 
+
+}
+
+concrete function main impl LinuxExecutable = {
+
+}
